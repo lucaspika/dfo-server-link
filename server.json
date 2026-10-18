@@ -1,4 +1,4 @@
 {
-  "payload": "{\"url\":\"wss://teste-exemplo.trycloudflare.com\",\"t\":1792365988009}",
-  "sig": "k38+/mieWVpaJArQlL5mqwqsAOI14azVcuFy7BRehnJdQETJyhw5cb2snGVNCHlNwhdjLVcqRqP+/WZf//fzDg=="
+  "payload": "{\"url\":\"\",\"t\":1792366035325}",
+  "sig": "GQGW37l4LuaC3baOWtiuS8W8myWL0QdqrHCfitvGtvthHezyT9ZVVXCXNs2jGq4KMYk/xtb+0ou9+TdLMSqaDg=="
 }
