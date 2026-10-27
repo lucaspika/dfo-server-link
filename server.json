@@ -1,4 +1,4 @@
 {
-  "payload": "{\"url\":\"\",\"t\":1793101273958}",
-  "sig": "WxDcvGW63TYfiQCKZDU+f0E5Okr2OzzKny2vgIA+8QSdj1z7zMlBfDqP8mIVlh2YmfHDhoZNO5xaM9wsvCNMCw=="
+  "payload": "{\"url\":\"wss://anaheim-march-gateway-cups.trycloudflare.com\",\"t\":1793101285782}",
+  "sig": "WC0/cEsYgsrFVNzxRV2Q/c+slxPEx83a8ScfW/tQAKa1xyPhgIjRqvpVAYWLnmtgVW7fpaFcs3KKSNTeCiokBg=="
 }
